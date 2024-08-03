@@ -1,4 +1,3 @@
-// screens/BorrowedScreen.js
 import React, { useContext } from "react";
 import { View, FlatList, StyleSheet, Button, Text } from "react-native";
 import { List } from "react-native-paper";
